@@ -1,4 +1,4 @@
-# Product-Design-Landingpage
+# Paytm-Clone
 
 ![](https://img.shields.io/badge/-HTML-orange)
 ![](https://img.shields.io/badge/-TAILWIND--CSS-green)
